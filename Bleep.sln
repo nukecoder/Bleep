@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bleep", "Bleep\Bleep.fsproj", "{DDFF335E-F371-4842-B3B5-9078D9634242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BleepViews", "BleepViews\BleepViews.csproj", "{3AB55758-EA53-4549-8538-CADABA9DF08F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFF335E-F371-4842-B3B5-9078D9634242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFF335E-F371-4842-B3B5-9078D9634242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFF335E-F371-4842-B3B5-9078D9634242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFF335E-F371-4842-B3B5-9078D9634242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB55758-EA53-4549-8538-CADABA9DF08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB55758-EA53-4549-8538-CADABA9DF08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB55758-EA53-4549-8538-CADABA9DF08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB55758-EA53-4549-8538-CADABA9DF08F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
